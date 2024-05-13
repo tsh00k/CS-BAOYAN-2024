@@ -1,6 +1,5 @@
 # CS-BAOYAN-2024 (三代目)
 
-
 **全国最大非商业用爱交流计算机保研交流群**（QQ群号：943826679）
 
 <img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2024/raw/main/2%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg" width=10% />
