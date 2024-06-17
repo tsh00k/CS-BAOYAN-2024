@@ -79,6 +79,7 @@
 * @[yu-yake2002](https://github.com/yu-yake2002)的[2023年（2024届）all in 中科院计算所保研经历](https://www.zhihu.com/question/537883625/answer/3233131256)
 * @[yao9e](https://github.com/yao9e)的[24届(2023年9月)计算机保研记录 | 211、低rank，无项目、竞赛、论文](https://yao9e.cn/2023/11/16/591162bfc467/)
 * @[星空](https://www.zhihu.com/people/kong-bai-40-78-92)的[2023年(2024届)保研经验分享(非常规保研)|四非低rk无竞赛无科研|上岸北邮|清华、协和、中科大等](https://zhuanlan.zhihu.com/p/692328311)
+* @[yyi](https://www.linkedin.com/in/%E7%84%B6-%E8%A1%A3-51968b2b1/)的[2023 年保研经验贴 [计算机-末九Rank50%-入北计清深-北计直博]](https://yirannn.com/beyond_tech/baoyan.html)
 
 ## 2022夏令营总结贴
 
